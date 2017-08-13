@@ -1,9 +1,71 @@
-.col-sm-8{
-  height:200px;
+.bg-yellow{
+  background-color: yellow;
+}
+
+.add-extra-padding-tb{
+  padding-top:200px;
+  padding-bottom:80px;
+}
+
+.border-black{
+  border:1px solid black;
+}
+
+.bg-blue{
   background-color: blue;
 }
 
-.col-md-4{
-  height:200px;
-  background-color: #ff0000;
+.header-height{
+  height: 400px;
+}
+
+.bg-green{
+  background-color: green;
+}
+
+.nav-height{
+  height:165px;
+}
+
+.padding15-t{
+  padding-top:15px;
+}
+
+.padding15-trl{
+  padding:15px 15px 0 15px;
+}
+
+.content-height{
+  height:595px;
+}
+
+.height-fit{
+  height:100%;
+}
+
+.bg-red{
+  background-color: red;
+}
+
+.bg-cyan{
+  background-color: cyan;
+}
+
+.promo-height{
+  height:405px;
+}
+
+.bg-gold{
+  background-color: gold;
+}
+
+.bg-black{
+  background-color: black;
+}
+.footer-height{
+  height:156px;
+}
+
+.font-white{
+  color:white;
 }
