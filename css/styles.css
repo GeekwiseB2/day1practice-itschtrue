@@ -1,16 +1,9 @@
-li {
-  list-style-type: none;
-  color: #e40007;
+.col-sm-8{
+  height:200px;
+  background-color: blue;
 }
 
-@media screen and (min-width: 300px) {
-  .col-md-3 {
-    background-color: blue;
-  }
-}
-
-@media screen and (min-width: 500px) {
-  .col-md-3 {
-    background-color: purple;
-  }
+.col-md-4{
+  height:200px;
+  background-color: #ff0000;
 }
